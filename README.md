@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AIML, Java
 
   ## Language
-  ![image]({https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
+  ![VSCode]({https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
