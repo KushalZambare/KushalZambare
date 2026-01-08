@@ -1,6 +1,10 @@
 # Kushal Sanjay Zambare
 
-Here are some ideas to get you started:
+## Hi There!
+I'm Kushal Zambare, a motivated and ambitious student with a passion for Computer Science.
+I'm dedicated to academic excellence and eager to contribute to exciting projects in the tech world!
+
+
 
 - 🔭 I’m currently working on AI powered EdTech Platform
 - 🌱 I’m currently learning AIML, Java, Mern Stack
