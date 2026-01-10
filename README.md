@@ -6,7 +6,7 @@ I'm dedicated to academic excellence and eager to contribute to exciting project
 
 
 
-- 🔭 I’m currently working on AI powered EdTech Platform
+- 🔭 I’m currently working on AI powered EdTech Platform. 
 - 🌱 I’m currently learning AIML, Java, Mern Stack
 
   ## Language
