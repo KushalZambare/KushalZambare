@@ -2,7 +2,7 @@
 
 ## Hi There!
 I'm Kushal Zambare, a motivated and ambitious student with a passion for Computer Science.
-I'm dedicated to academic excellence and eager to contribute to exciting projects in the tech world!
+I'm dedicated to academic excellence and eager to contribute to exciting Projects in the tech world!
 
 
 - 🔭 I’m currently working on AI powered EdTech Platform. 
