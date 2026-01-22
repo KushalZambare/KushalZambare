@@ -8,6 +8,8 @@ I'm dedicated to academic excellence and eager to contribute to exciting Project
 - 🔭 I’m currently working on AI powered EdTech Platform. 
 - 🌱 I’m currently learning AIML, Java, Mern Stack
 
+  
+## What I use 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
