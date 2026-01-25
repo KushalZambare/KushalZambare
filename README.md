@@ -72,5 +72,8 @@ I'm dedicated to academic excellence and eager to contribute to exciting Project
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
+## My Stats 
+[![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KushalZambare)](https://github.com/KushalZambare/github-readme-stats)
   
   
