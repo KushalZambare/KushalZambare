@@ -54,7 +54,6 @@ I'm dedicated to Academic excellence and eager to contribute to exciting Project
 
 ## 🎨 Design & Productivity
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🏆 Coding Platforms
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
