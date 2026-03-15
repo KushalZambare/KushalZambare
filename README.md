@@ -5,7 +5,7 @@ I'm Kushal Zambare, a motivated and ambitious student with a passion for Compute
 I'm dedicated to Academic excellence and eager to Contribute to exciting Projects in the Tech World!
 
 
-- 🔭 I’m currently working on AI Platforms. 
+- 🔭 I’m currently working on AI Solution Platforms. 
 - 🌱 I’m currently learning AIML, Java, Mern Stack
 
   
