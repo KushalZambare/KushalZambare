@@ -6,7 +6,7 @@ I'm dedicated to Academic excellence and eager to Contribute to exciting Project
 
 
 - 🔭 I’m currently working on AI Solution Platforms. 
-- 🌱 I’m currently learning AIML, Java, Spring Boot
+- 🌱 I’m currently learning AI&ML, Java, Spring Boot
 
   
 ## What I use 
