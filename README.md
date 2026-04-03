@@ -70,6 +70,6 @@ I'm dedicated to Academic excellence and eager to Contribute to exciting Project
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 ## My Stats 
-[![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KushalZambare)](https://github.com/KushalZambare/github-readme-stats)
+[![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushalZambare)](https://github.com/KushalZambare/github-readme-stats)
   
   
